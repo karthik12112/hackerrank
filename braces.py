@@ -1,4 +1,4 @@
-
+# Update braces if they are not in correct format either {[()]} or {}()[]
 dict = {"{":"}", "[":"]", "(":")"}
 def method(values):
     new_values = []
